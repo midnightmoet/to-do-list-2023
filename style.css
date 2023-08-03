@@ -63,8 +63,9 @@ body{
 }
 
 .list li.checked {
-    color: black;
+    color: slategray;
     text-decoration: line-through;
+    font-style: italic;
 }
 
 .list li.checked .fa-check-square{

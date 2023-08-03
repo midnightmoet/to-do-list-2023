@@ -9,3 +9,4 @@ This is a simple to do list app that allows you to add, edit, and delete tasks. 
 - JavaScript
 - [CDNJS](https://cdnjs.com/)
 - [Font Awesome](https://fontawesome.com/)
+- Uses local storage but could be modified to use a database
